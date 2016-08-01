@@ -1,0 +1,354 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.head{
+	width: 100%;
+	height: 34px;
+	background-color: #262626;
+	min-width: 1600px;
+	overflow: hidden;
+	position: relative;
+}
+.head1{
+	width: 1140px;
+	height: 34px;
+	margin: 0 auto;
+	position: relative;
+	overflow: hidden;
+}
+.head1 li{
+	list-style: none;
+	float: left;
+	padding-top: 6px;
+}
+.head1 a{
+	text-decoration: none;
+	color: #efefef;
+	font-size: 10px;
+	font-family: "微软雅黑";
+}
+.sy{
+	margin-left: 110px;
+}
+.lz{
+	margin-left: 65px;
+}
+.jj{
+	margin-left: 55px;
+}
+.wh{
+	margin-left: 54px;
+}
+.cy{
+	margin-left: 31px;
+}
+.rl{
+	margin-left: 35px;
+}
+.news{
+	margin-left: 55px;
+}
+.cp{
+	margin-left: 55px;
+}
+.lx{
+	margin-left: 55px;
+}
+.ly{
+	margin-left: 55px;
+}
+.tu i{
+	display: inline-block;
+	background-image: url(image/1.png);
+	background-position: 0 0;
+	width: 14px;
+	height: 19px;
+}
+.tu{
+	margin-left: 22px;
+}
+.body{
+	width: 1600px;
+	overflow: hidden;
+	position: relative;
+	margin: 0 auto;
+}
+.body1{
+	width: 1600px;
+	height: 709px;
+	overflow: hidden;	
+	float: left;
+	position: relative;
+	background-color: #fdfdfc;
+}
+.body2{
+	width: 100%;
+	min-width: 1600px;
+	height: 35px;
+	overflow: hidden;
+	float: left;
+	position: relative;
+	background-color: #f3f4f5;
+}
+.body2-div{
+	height: 35px;
+	width: 1140px;
+	overflow: hidden;
+	margin: 0 auto;
+	position: relative;
+}
+.body2-div li{
+	list-style: none;
+	float: left;
+	margin-top: 7px;
+}
+.li2 i{
+	display: inline-block;
+	background-image: url(image/1.png);
+	background-position: -24px 0;
+	width: 13px;
+	height: 19px;
+}
+.li5 i{
+	display: inline-block;
+	background-image: url(image/1.png);
+	background-position: -46px 0;
+	width: 13px;
+	height: 15px;
+	margin-top: 4px;
+}
+.li8 i{
+	display: inline-block;
+	background-image: url(image/1.png);
+	background-position: -62px 0;
+	width: 18px;
+	height: 13px;
+}
+.li11 i{
+	display: inline-block;
+	background-image: url(image/1.png);
+	background-position: -80px 0;
+	width: 17px;
+	height: 19px;
+}
+.body2-div li a{
+	text-decoration: none;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	color: #6c6c6c;
+}
+.li3,.li6,.li9,.li12{
+	font-weight: bold;
+}
+.li1,.li4,.li7,.li10{
+	margin-right: 136px;
+}
+.body3{
+	overflow: hidden;
+	position: relative;
+	width: 1600px;
+	float: left;
+	height: 400px;
+}
+.body3middle{
+	width: 1140px;
+	position: relative;
+	height: 400px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.body3middle-1{
+	width: 225px;
+	height: 330px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	margin-top: 40px;
+}
+.middle-1-1{
+	width: 225px;
+	height: 160px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+.middle-1-2{
+	width: 225px;
+	height: 160px;
+	margin-top: 10px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+.body3middle-2{
+	width: 222px;
+	height: 330px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 40px;
+	position: relative;
+	overflow: hidden;
+}
+.body3middle-3{
+	width: 450px;
+	height: 84px;
+	float: left;
+	overflow:hidden;
+	position: relative;
+	margin-top: 40px;
+	margin-left: 10px;
+}
+.middle-3-1{
+	width: 164px;
+	height: 84px;
+	float: left;
+	position: relative;
+	overflow: hidden;
+	margin-left: 10px;
+}
+.middle-3-2{
+	width: 182px;
+	height: 84px;
+	float: left;
+	position:relative;
+	overflow: hidden;
+	margin-left: 10px;
+}
+.body3middle-4{
+	width: 223px;
+	height:236px;
+	position: relative;
+	overflow: hidden;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.middle-4-1{
+	width: 223px;
+	height: 160px;
+	position: relative;
+	overflow: hidden;
+	float: left;
+}
+.middle-4-2{
+	width: 143px;
+	height: 66px;
+	margin-top: 10px;
+	float: left;
+	position: relative;
+	overflow: hidden;
+}
+.middle-4-3{
+	width: 70px;
+	height: 66px;
+	margin-top: 10px;
+	margin-left: 10px;
+	position: relative;
+	overflow: hidden;
+	background-color: #e3e3e3;
+	float: left;
+}
+.body3middle-5{
+	width: 217px;
+	height: 236px;
+	margin-left: 10px;
+	overflow: hidden;
+	position: relative;
+	float: left;
+	margin-top: 10px;
+}
+.body3middle-6{
+	width: 213px;
+	height: 330px;
+	position: absolute;
+	overflow: hidden;
+	top: 40px;
+	right: 0px;
+}
+.middle-6-1{
+	width: 213px;
+	height: 162px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+.middle-6-2{
+	width: 213px;
+	height: 158px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	margin-top: 10px;
+}
+.hover1{
+	width: 225px;
+    height: 160px;
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+    z-index: 2;
+    display: none;
+}
+.middle-1-1:hover .hover1{
+	display: block;
+}
+.hover1p{
+	display: inline-block;
+	width: 110px;
+	height: 59px;
+	text-align: center;
+	font-size: 14px;
+	color: #fff;
+	background-color: #ff48ce;
+	position: absolute;
+	left: 57px;
+	top: 55px;
+	z-index: 3;
+	font-family: "微软雅黑";
+	padding-top: 20px;
+	display: none;
+}
+.middle-1-1:hover .hover1p{
+	display: block;
+}
+.ending{
+	width: 100%
+	min-width: 1600px;
+	height: 60px;
+	margin:0 auto;
+	background-color: #f4f4f4;
+	position: relative;
+	overflow: hidden;
+}
+.endingmiddle{
+	width: 1140px;
+	height: 60px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+}
+.endingmiddle li{
+	list-style: none;
+	float: left;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	color: #c3c4c4;
+	margin-right:50px;
+	margin-top: 22px; 
+}
+.endingmiddle li a{
+	font-size: 13px;
+	color: #a0a0a0;
+	text-decoration: none;
+}
+.endingmiddle p{
+	position: absolute;
+	right: 0;
+	font-size: 10px;
+	color: #ababab;
+	top: 24px;
+	letter-spacing:-1px;
+}
